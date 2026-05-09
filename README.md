@@ -1,5 +1,5 @@
 # airline-performance-analysis
-Airline operational and performance dashboard using Power BI, Tableau, and Excel.
+Airline operational and performance analysis dashboard using Power BI, Tableau, Excel, and SQL.
 # Airline Performance Analysis
 
 # Overview
